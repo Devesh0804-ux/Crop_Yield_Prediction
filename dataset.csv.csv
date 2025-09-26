@@ -1,0 +1,7 @@
+Crop,Temp,Rainfall,Humidity,Soil_pH,Fertilizer,Yield
+Wheat,25,200,80,6.5,50,3000
+Rice,28,250,85,6.8,60,4000
+Maize,30,150,70,6.2,55,3500
+Wheat,27,180,78,6.6,52,3200
+Rice,29,240,82,6.7,58,4100
+Maize,31,160,72,6.3,57,3600
