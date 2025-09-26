@@ -1,0 +1,9 @@
+region,crop_type,soil_type,rainfall,temperature,yield
+North,Wheat,Loamy,200,25,3000
+North,Rice,Clay,180,28,4000
+South,Wheat,Sandy,210,24,3200
+South,Rice,Loamy,190,29,4200
+East,Wheat,Clay,220,26,3100
+East,Rice,Sandy,185,27,4100
+West,Wheat,Loamy,205,23,3050
+West,Rice,Clay,195,30,3950
